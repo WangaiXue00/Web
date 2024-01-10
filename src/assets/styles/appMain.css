@@ -1,0 +1,13 @@
+
+.assistant {
+    background-color: white; 
+    margin:5px 10px; 
+    border-radius: 5px; 
+    padding:15px 20px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.top-form {
+    position: relative;
+    width: 100%;
+    height: 50px;
+}
